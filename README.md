@@ -2,7 +2,7 @@
 
 Um conversor de moedas simples que utiliza a API [ExchangeRate-API](https://www.exchangerate-api.com/) para obter taxas de câmbio em tempo real.
 
-![Descrição do GIF](assets/animacao-converte-moeda.gif)
+![Descrição do GIF](./src/assets/animacao-converte-moeda.gif)
 ## Funcionalidades ✨
 - Conversão entre 7 pares de moedas pré-definidos
 - Interface de linha de comando (CLI) intuitiva
